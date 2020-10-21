@@ -1,10 +1,11 @@
 
 {
-    "datos" : { 
-     "cuit":"20000000",
-    "cod_posnet":"9999",
-    "razon_social":"Enzo_Paez",
-    "nombre_fantasia":"Maderas Pepito"
-    }
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
 
