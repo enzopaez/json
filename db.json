@@ -6,6 +6,6 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "cuit": "2222222","posnet":"111111","nombre":"Hola carola","razon_social":"Sisisisisisipapapa" }
 }
 
