@@ -1,42 +1,170 @@
-[
-    {
-        "numeroLote": "40342",
-        "fechaLote": "Tue Mar 17 00:00:00 ART 2020",
-        "cuenta": "5701",
-        "apellidoNombre": "CHANDIA PEDRO MARIO",
-        "vigenciaDesde": "Wed Apr 01 00:00:00 ART 2020",
-        "vigenciaHasta": "Wed Apr 30 00:00:00 ART 2025",
-        "cantidadPlastico": "1",
-        "operacion": "2",
-        "operacionDesc": "Renovacion",
-        "lugarPlastico": "Casa Central",
-        "operador": "Barquiel Miguel Agustin",
-        "estadoCliente": "BLOQUEADA BCRA",
-        "estado_cobranza": "Normal",
-        "partido": "San Juan",
-        "observacion": "null",
-        "observacionNew": " ",
-        "fechaUltimoLugar": "Tue Mar 17 00:00:00 ART 2020",
-        "codigobarra": "020403420057014"
+{
+    "cuenta": {
+        "estado": "NORMAL",
+        "estado_comercial": "Normal",
+        "disponible": "$0,00",
+        "linea_credito": "$15.000,00",
+        "saldo": "$34.825,00",
+        "saldo_prox_resumen": "$0,00",
+        "proximo_cierre": "5/12/2020",
+        "proximo_vto": "-",
+        "desbloq_pago_min": "N",
+        "habilita_repactacion": "S",
+        "habilita_pago_link": "S"
     },
-    {
-        "numeroLote": "40342",
-        "fechaLote": "Tue Mar 17 00:00:00 ART 2020",
-        "cuenta": "5701",
-        "apellidoNombre": "CHANDIA PEDRO MARIO",
-        "vigenciaDesde": "Wed Apr 01 00:00:00 ART 2020",
-        "vigenciaHasta": "Wed Apr 30 00:00:00 ART 2025",
-        "cantidadPlastico": "1",
-        "operacion": "2",
-        "operacionDesc": "Renovacion",
-        "lugarPlastico": "Casa Central",
-        "operador": "Barquiel Miguel Agustin",
-        "estadoCliente": "BLOQUEADA BCRA",
-        "estado_cobranza": "Normal",
-        "partido": "San Juan",
-        "observacion": "null",
-        "observacionNew": " ",
-        "fechaUltimoLugar": "Tue Mar 17 00:00:00 ART 2020",
-        "codigobarra": "020403420057014"
-    }
-]
+    "movimientos": [],
+    "ultimo_resumen": {
+        "resumen": {
+            "fecha": "05/12/2020",
+            "link": "https://tarjetafiel.s3-sa-east-1.amazonaws.com/liquidacionesClientes/05-12-2020/540020-12-2020_71603.pdf"
+        },
+        "total": "$9.053,98",
+        "fecha_vto": "21/12/2020",
+        "monto_pendiente": "$0,00",
+        "pago_minimo": "$0,00",
+        "detalle_resumen": [
+            {
+                "comercio": "RESUMEN ANTERIOR",
+                "fecha": "",
+                "monto": "$12.069,20",
+                "nro_cuota": "",
+                "comprador": ""
+            },
+            {
+                "comercio": "SU PAGO",
+                "fecha": "16/11/2020",
+                "monto": "$-12.070,00",
+                "nro_cuota": "1/1",
+                "comprador": ""
+            },
+            {
+                "comercio": "CALZADOS ALBERTO",
+                "fecha": "23/10/2020",
+                "monto": "$803,00",
+                "nro_cuota": "2/3",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "Super Telas",
+                "fecha": "23/10/2020",
+                "monto": "$738,18",
+                "nro_cuota": "2/2",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "SUPER VEA 417",
+                "fecha": "23/10/2020",
+                "monto": "$608,31",
+                "nro_cuota": "2/2",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "SUPER VEA 417",
+                "fecha": "05/11/2020",
+                "monto": "$215,36",
+                "nro_cuota": "1/1",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "Un Rincon de Napoli",
+                "fecha": "17/11/2020",
+                "monto": "$1.310,09",
+                "nro_cuota": "1/1",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "PC HARDWARE",
+                "fecha": "17/11/2020",
+                "monto": "$2.573,12",
+                "nro_cuota": "1/3",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "Un Rincon de Napoli",
+                "fecha": "18/11/2020",
+                "monto": "$299,80",
+                "nro_cuota": "1/1",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "SUPER VEA 417",
+                "fecha": "18/11/2020",
+                "monto": "$405,83",
+                "nro_cuota": "1/1",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "SUPER VEA 417",
+                "fecha": "19/11/2020",
+                "monto": "$782,56",
+                "nro_cuota": "1/1",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "Un Rincon de Napoli",
+                "fecha": "23/11/2020",
+                "monto": "$525,35",
+                "nro_cuota": "1/1",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "CARREFOUR",
+                "fecha": "27/11/2020",
+                "monto": "$473,46",
+                "nro_cuota": "1/1",
+                "comprador": "Gonzalez Jonatan Nahuel"
+            },
+            {
+                "comercio": "Comisión por Mantenimiento de Cuenta",
+                "fecha": "05/12/2020",
+                "monto": "$206,00",
+                "nro_cuota": "1/1",
+                "comprador": ""
+            },
+            {
+                "comercio": "IVA",
+                "fecha": "05/12/2020",
+                "monto": "$50,78",
+                "nro_cuota": "",
+                "comprador": ""
+            },
+            {
+                "comercio": "SELLOS",
+                "fecha": "05/12/2020",
+                "monto": "$62,94",
+                "nro_cuota": "",
+                "comprador": ""
+            },
+            {
+                "comercio": "Total",
+                "fecha": "",
+                "monto": "$9.053,98",
+                "nro_cuota": "",
+                "comprador": ""
+            }
+        ]
+    },
+    "resumenes_anteriores": [
+        {
+            "fecha": "05/11/2020",
+            "link": "https://tarjetafiel.s3-sa-east-1.amazonaws.com/liquidacionesClientes/05-11-2020/540020-11-2020_71603.pdf"
+        }
+    ],
+    "ultimos_pagos": [
+        {
+            "importe": "$9.060,00",
+            "fecha": "14/12/2020"
+        },
+        {
+            "importe": "$12.070,00",
+            "fecha": "16/11/2020"
+        }
+    ],
+    "tarjeta": {
+        "nombre": "",
+        "numero": "5049060685456614",
+        "cvv": "522",
+        "fecha_vto": "10/25"
+    },
+    "adicionales": []
+}
