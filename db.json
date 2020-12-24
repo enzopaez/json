@@ -18,5 +18,25 @@
         "observacionNew": " ",
         "fechaUltimoLugar": "Tue Mar 17 00:00:00 ART 2020",
         "codigobarra": "020403420057014"
+    },
+    {
+        "numeroLote": "40342",
+        "fechaLote": "Tue Mar 17 00:00:00 ART 2020",
+        "cuenta": "5701",
+        "apellidoNombre": "CHANDIA PEDRO MARIO",
+        "vigenciaDesde": "Wed Apr 01 00:00:00 ART 2020",
+        "vigenciaHasta": "Wed Apr 30 00:00:00 ART 2025",
+        "cantidadPlastico": "1",
+        "operacion": "2",
+        "operacionDesc": "Renovacion",
+        "lugarPlastico": "Casa Central",
+        "operador": "Barquiel Miguel Agustin",
+        "estadoCliente": "BLOQUEADA BCRA",
+        "estado_cobranza": "Normal",
+        "partido": "San Juan",
+        "observacion": "null",
+        "observacionNew": " ",
+        "fechaUltimoLugar": "Tue Mar 17 00:00:00 ART 2020",
+        "codigobarra": "020403420057014"
     }
 ]
